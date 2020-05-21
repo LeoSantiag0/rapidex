@@ -20531,6 +20531,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/lsantiago/Rapidex/AppWeb/Views/Home/MinhaPagina.cshtml",
+      "TargetPath": "Views\\Home\\MinhaPagina.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/lsantiago/Rapidex/AppWeb/Views/Home/Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"

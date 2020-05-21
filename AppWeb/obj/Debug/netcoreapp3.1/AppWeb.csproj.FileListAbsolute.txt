@@ -33,3 +33,4 @@
 /home/lsantiago/Rapidex/AppWeb/obj/Debug/netcoreapp3.1/AppWeb.dll
 /home/lsantiago/Rapidex/AppWeb/obj/Debug/netcoreapp3.1/AppWeb.pdb
 /home/lsantiago/Rapidex/AppWeb/obj/Debug/netcoreapp3.1/AppWeb.csproj.CopyComplete
+/home/lsantiago/Rapidex/AppWeb/obj/Debug/netcoreapp3.1/Razor/Views/Home/MinhaPagina.cshtml.g.cs
