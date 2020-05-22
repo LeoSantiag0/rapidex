@@ -34,3 +34,5 @@
 /home/lsantiago/Rapidex/AppWeb/obj/Debug/netcoreapp3.1/AppWeb.pdb
 /home/lsantiago/Rapidex/AppWeb/obj/Debug/netcoreapp3.1/AppWeb.csproj.CopyComplete
 /home/lsantiago/Rapidex/AppWeb/obj/Debug/netcoreapp3.1/Razor/Views/Home/MinhaPagina.cshtml.g.cs
+/home/lsantiago/Rapidex/AppWeb/obj/Debug/netcoreapp3.1/AppWeb.csproj.CoreCompileInputs.cache
+/home/lsantiago/Rapidex/AppWeb/obj/Debug/netcoreapp3.1/AppWeb.genruntimeconfig.cache
